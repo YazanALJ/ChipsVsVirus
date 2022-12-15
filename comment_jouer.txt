@@ -1,0 +1,20 @@
+COMMENT JOUER
+C'est simple tous d'abord vous pouvez choisir le niveau auquel vous voulez jouer en argument.
+Ensuite, vous allez voir les vagues de virus que vous allez affronter et vous devrez construire vos défenses.
+vous aurez le choix entre:
+-une ALU,  tourelle basique qui tire uniquement sur sa ligne et qui a 2 points de vie.
+-La RAM , qui ralentit les adversaires, mais qui ne fait pas de dégats elle possède aussi 2 points de vie.
+-Le FIREWALL qui est une défense qui sert à ralentir les virus elle a 10 points de vie, mais ne fait rien.
+-La PMMU incroyable défense qui tire en laser et fait des degat a tous les virus de la ligne elle possede 4 points de vies.
+-La CPU qui tire sur 3 lignes et qui possede 5 points de vies.
+
+Au fur et à mesure que vous placez vos défenses vous pouvez aussi voir leur placement en appuyant sur V.
+Attention il y a différent type de virus :
+-Les Floating point exception (Virus de base) ont la lettre E ils ont 6 points de vie et une vitesse de 1.
+-Les Corruptions de mémoire ont la lettre M ils ont une vitesse de 4 et 4 points de vie.
+-Les bug silencieux sont des tank ils ont la lettre B et ont 12 points de vie et une vitesse de 2 .
+-Les DDOS sont des soigneurs ils ont la lettre D, ont 4 points de vie et 1 de vitesse, ils soignent les virus devant et derriere eux.
+-Les seg fault ont la lettre S, ils sont très spéciaux, car ils volent les points de vie du virus juste derriere eux et de base ils ont 1 point de vie et 1 de vitesse.
+
+
+A vous de choisir les bonnes défense afin de protéger votre ordinateur !!!
